@@ -1,0 +1,30 @@
+commit 87b7f3575480ee5c6ba42c70543ebee548f51396
+Author: Jack <jdtvlogs10@gmail.com>
+Date:   Mon Feb 16 20:42:11 2026 +0000
+
+    Revert "this is acommit that i am reversing on the experimental branch for the lab"
+    
+    This reverts commit e9d3ea87083007d2cbfa8dd87e58e6cd0b5422c1.
+
+commit e9d3ea87083007d2cbfa8dd87e58e6cd0b5422c1
+Author: Jack <jdtvlogs10@gmail.com>
+Date:   Mon Feb 16 20:39:50 2026 +0000
+
+    this is acommit that i am reversing on the experimental branch for the lab
+    this commit is part of part 7 more changes! more commits!
+
+commit 8308ecf46a3ec1fa605ab65857dd0b41349c54fc
+Author: Jack <jdtvlogs10@gmail.com>
+Date:   Tue Feb 10 23:57:03 2026 +0000
+
+    2nd Commit - Updating os-release file
+    
+    I updated the os-release to include the name of myself and my group member
+
+commit e8ead3533d181ff8db8df603411208c0bcea2290
+Author: Jack <jdtvlogs10@gmail.com>
+Date:   Tue Feb 10 23:46:23 2026 +0000
+
+    Lab 3 Commiting multiple important system files for our ubuntu 24.04  server machine
+    
+    sys files
